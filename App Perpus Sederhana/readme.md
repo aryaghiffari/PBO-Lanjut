@@ -2,7 +2,7 @@
 
 Sebuah Aplikasi Perpustakaan sederhana yang dibuat dengan bahasa Python, GUI TKINTER dan berbasis data pada localhost.
 
-created by : Arya Ghiffari
+created by : Arya Ghiffari.
 Mahasiswa Teknik Informatika, Universitas Muhammadiyah Cirebon.
 
 
